@@ -10,7 +10,7 @@ Analytic scripts for Doan et al. (2018), "Label-free assessment of red blood cel
 - Step 3b: Python 3.6 - Data-driven visualization of deep learning feature space
 - Step 4: Python 3.6 - Construct confusion matrices and other plots
 
-iPython notebooks for step 1-4 are provided in this repository
+iPython notebooks for steps 1-4 are provided in this repository
 
 # Dependencies:
 Prior to installation of deepometry itself, user needs the following packages pre-installed:
