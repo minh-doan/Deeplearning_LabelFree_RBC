@@ -3,12 +3,12 @@ Analytic scripts for Doan et al. (2018), "Label-free assessment of red blood cel
 
 # Usage:
 
-STEP 0: IDEAS 6.2 - Preliminary gating, remove out-of-focus, collect single cells, and exporting .CIF
-STEP 1: Python 3.6 - Parse little images inside .CIF into .NPY
-STEP 2: Python 3.6 - Train convolutionaly neural network ResNet50
-STEP 3: Python 3.6 - Evaluate trained model, supervised classification of RBC morphology
-STEP 3b: Python 3.6 - Data-driven visualization of deep learning feature space
-STEP 4: Python 3.6 - Construct confusion matrices and other plots
+- Step 0: IDEAS 6.2 - Preliminary gating, remove out-of-focus, collect single cells, and exporting .CIF
+- Step 1: Python 3.6 - Parse little images inside .CIF into .NPY
+- Step 2: Python 3.6 - Train convolutionaly neural network ResNet50
+- Step 3: Python 3.6 - Evaluate trained model, supervised classification of RBC morphology
+- Step 3b: Python 3.6 - Data-driven visualization of deep learning feature space
+- Step 4: Python 3.6 - Construct confusion matrices and other plots
 
 iPython notebooks for step 1-4 are provided in this repository
 
