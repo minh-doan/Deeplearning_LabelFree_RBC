@@ -42,4 +42,4 @@ Note: Windows user will need Microsoft Visual C++ Build tools and its compilers 
 
 # Installation of deepometry: 
 
-for more infor visit http://github.com/broadinstitute/deepometry
+Please visit http://github.com/broadinstitute/deepometry
