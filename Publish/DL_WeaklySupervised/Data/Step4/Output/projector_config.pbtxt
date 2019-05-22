@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "My tensor",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/minh-doan/Deeplearning_LabelFree_RBC/master/Publish/DL_WeaklySupervised/Data/Step4/Output/fitted_umap_3D_vectors_res4a_relu.txt",
+      "metadataPath": "https://raw.githubusercontent.com/minh-doan/Deeplearning_LabelFree_RBC/master/Publish/DL_WeaklySupervised/Data/Step4/Output/metadata_label.tsv"
+    }
+  ]
+}
