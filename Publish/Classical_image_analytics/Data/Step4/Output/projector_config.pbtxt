@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "My tensor",
+      "tensorShape": [
+        33467,
+        3
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/minh-doan/Deeplearning_LabelFree_RBC/master/Publish/Classical_image_analytics/Data/Step4/Output/fitted_tsne_3D_CP_features.txt",
+      "metadataPath": "https://raw.githubusercontent.com/minh-doan/Deeplearning_LabelFree_RBC/master/Publish/Classical_image_analytics/Data/Step4/Output/metadata_label.tsv"
+    }
+  ]
+}
