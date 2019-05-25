@@ -7,7 +7,7 @@
         50
       ],
       "tensorPath": "https://raw.githubusercontent.com/minh-doan/Deeplearning_LabelFree_RBC/master/Publish/DL_Supervised/Data/Step4/Output/fitted_tSNE_3D_features_pool5.txt",
-      "metadataPath": "https://raw.githubusercontent.com/minh-doan/Deeplearning_LabelFree_RBC/master/Publish/DL_Supervised/Data/Step4/Output/metadata_label.tsv"    
+      "metadataPath": "https://raw.githubusercontent.com/minh-doan/Deeplearning_LabelFree_RBC/master/Publish/DL_Supervised/Data/Step4/Output/metadata_label.tsv",    
       "sprite": {
         "imagePath": "https://raw.githubusercontent.com/minh-doan/Deeplearning_LabelFree_RBC/master/Publish/DL_Supervised/Data/Step4/Output/sprite.png",
         "singleImageDim": [
