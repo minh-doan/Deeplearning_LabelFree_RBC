@@ -6,8 +6,8 @@
         33467,
         50
       ],
-      "tensorPath": "https://raw.githubusercontent.com/minh-doan/Deeplearning_LabelFree_RBC/master/Publish/Classical_image_analytics/Data/Step4/Output/fitted_tSNE_3D_CP_features.txt",
-      "metadataPath": "https://raw.githubusercontent.com/minh-doan/Deeplearning_LabelFree_RBC/master/Publish/Classical_image_analytics/Data/Step4/Output/metadata_labels.tsv"
+      "tensorPath": "https://raw.githubusercontent.com/minh-doan/Deeplearning_LabelFree_RBC/master/Publish/Classical_image_analytics/Data/Step4/Output/after_feature_selection_scaled_data.txt",
+      "metadataPath": "https://raw.githubusercontent.com/minh-doan/Deeplearning_LabelFree_RBC/master/Publish/Classical_image_analytics/Data/Step4/Output/ground_truth_labels.tsv"
     }
   ]
 }
