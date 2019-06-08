@@ -6,10 +6,10 @@
         7000,
         1024
       ],
-      "tensorPath": "https://ndownloader.figshare.com/files/15374357?private_link=b4ed178c6996f8572632",
+      "tensorPath": "https://s3-eu-west-1.amazonaws.com/pfigshare-u-files/15374357/features_res4a_relu_selected_cells_for_viz.txt",
       "metadataPath": "https://raw.githubusercontent.com/minh-doan/Deeplearning_LabelFree_RBC/master/Publish/DL_WeaklySupervised/Data/Step3/Output/Annotated/metadata_label_selected_cells_for_viz.tsv",
       "sprite": {
-        "imagePath": "https://ndownloader.figshare.com/files/15374351?private_link=38a725546e02cacccabf",
+        "imagePath": "https://s3-eu-west-1.amazonaws.com/pfigshare-u-files/15374351/sprite_selected_cells_for_viz.png",
         "singleImageDim": [
           48,
           48
