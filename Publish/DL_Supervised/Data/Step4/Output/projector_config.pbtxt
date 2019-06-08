@@ -6,10 +6,10 @@
         10246,
         3
       ],
-      "tensorPath": "https://raw.githubusercontent.com/minh-doan/Deeplearning_LabelFree_RBC/master/Publish/DL_Supervised/Data/Step4/Output/fitted_tSNE_3D_features_pool5.txt",
-      "metadataPath": "https://raw.githubusercontent.com/minh-doan/Deeplearning_LabelFree_RBC/master/Publish/DL_Supervised/Data/Step4/Output/metadata_label.tsv",
+      "tensorPath": "https://s3-eu-west-1.amazonaws.com/pfigshare-u-files/15374519/features_pool5_selected_cells_for_viz.txt",
+      "metadataPath": "https://raw.githubusercontent.com/minh-doan/Deeplearning_LabelFree_RBC/master/Publish/DL_Supervised/Data/Step4/Output/Supervised_metadata_label_selected_cells_for_viz.tsv",
       "sprite": {
-        "imagePath": "https://raw.githubusercontent.com/minh-doan/Deeplearning_LabelFree_RBC/master/Publish/DL_Supervised/Data/Step4/Output/sprite.png",
+        "imagePath": "https://s3-eu-west-1.amazonaws.com/pfigshare-u-files/15374516/sprite_selected_cells_for_viz.png",
         "singleImageDim": [
           48,
           48
